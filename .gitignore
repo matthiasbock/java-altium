@@ -16,3 +16,10 @@ log/
 target/
 meetup-ad-schematic.userlibraries
 meetup-ad-schematic.eml
+
+# Altium
+*.SchLib
+*.SchDoc
+*.PcbLib
+*.PcbDoc
+*.PrjPcb
