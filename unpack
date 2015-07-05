@@ -1,0 +1,4 @@
+#!/bin/bash
+
+java -jar target/final-altium-schematic-importer-1.0.jar "$1"
+
