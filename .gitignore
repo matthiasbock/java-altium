@@ -23,3 +23,12 @@ meetup-ad-schematic.eml
 *.PcbLib
 *.PcbDoc
 *.PrjPcb
+*.??????.export
+
+*.html
+*.json
+
+*~
+.~lock*
+.*.swp
+
